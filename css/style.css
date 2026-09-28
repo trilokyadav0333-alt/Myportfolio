@@ -1,0 +1,33 @@
+/* body{
+    background-color: aliceblue;
+    color: black;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header{
+    background-color:rgb(94, 105, 151);
+    color:whitesmoke;
+}
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    
+}
+
+nav a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+nav a:hover{
+    color:gold;
+} */
